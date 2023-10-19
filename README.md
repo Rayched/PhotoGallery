@@ -1,2 +1,17 @@
-# PhotoGallery
-사진 취미를 하면서 찍었던 사진을 포트폴리오 같은 느낌으로 보여준다는 컨셉의 웹 페이지
+
+# 📷 Photo Gallery
+
+
+### 제작자: Hanbyeol_Yu
+---
+
+### 💻 Tech
+- **HTML, CSS, JavaScript**
+- **TypeScript**
+- **React.js**
+
+### 📃 참고 자료
+- **[인스타그램 - 사진 계정](https://www.instagram.com/hanbyeol_0319/)**
+- **[티스토리 블로그](https://rclogstorage.tistory.com/)**
+
+---
